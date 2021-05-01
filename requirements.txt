@@ -36,7 +36,6 @@ PyQt5==5.12.3
 PyQt5-sip==12.8.1
 PyQtWebEngine==5.12.1
 python-whois==0.7.3
-pywin32==300
 pywin32-ctypes==0.2.0
 PyYAML==5.4.1
 pyzmq==22.0.3
