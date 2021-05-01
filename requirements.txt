@@ -56,7 +56,6 @@ typed-ast==1.4.3
 urllib3==1.26.4
 webencodings==0.5.1
 Werkzeug==1.0.1
-whois==0.9.10
 python-whois==0.7.3
 wincertstore==0.2
 wrapt==1.12.1
